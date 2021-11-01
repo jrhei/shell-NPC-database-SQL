@@ -1,0 +1,47 @@
+---------------------------------SKYRIM DATABASE USER MANUAL-----------------------------------
+	This program is meant to manage and view the NPCs (non-playable characters) of the video
+game "The Elder Scrolls V: Skyrim". Use this program to add, edit, delete characters in the 
+database. You can also load files that contains data that can be used to input information into
+the database. Each interaction is logged via a text file named "logs.txt".
+
+RUNNING THE PROGRAM:
+	To run the program make sure that the directory of the script files is appended in the 
+PATH variable. Run the program by running "mainprog.bash".
+	
+MAIN MENU NAVIGATION:
+	In the main menu you are greeted with 7 options.
+	Add: Add NPCs into the NPC records.
+	Edit: Edit the fields of the NPCs.
+	Delete: Delete an NPC.
+	View: View all the NPCs.
+	Load via batch file: Load NPCs from a file to be added to the database.
+	Logs: View all the interactions done and also the errors during use of the program.
+	Exit: Exits the program.
+ADD MENU:
+	The add menu asks for the: 
+	NPC ID: The unique number modifier for each NPC
+	and also the NPCs:
+	Name, Age, Race, Gender, Job, Weapon of choice, and Class
+EDIT MENU:
+	The edit menu asks for an NPC ID and will give an option to edit either the NPC_ID, name,
+	age, race, gender, job, weapon, or class of the NPC
+DELETE MENU:
+	The delete menu asks for an NPC ID and deletes the NPC that owns that ID.
+VIEW MENU:
+	The view menu has 10 options, 8 of which are the fields of the NPCs, one for a return option
+	and 'S' for a search option.
+
+	When choosing one of the fields the program will show the records in descending order in 
+	terms of the field chosen.
+	
+	When choosing the Search option the program will go into a different menu known as the 
+	SEARCH MENU:
+		In the search menu the user can specify which specific field you want to search your
+		Keyword. Once chosen all that matches with the keyword will be shown.
+LOAD VIA BATCH FILE:
+	In this option the user is asked for a filename, if the filename exists the program will try
+	to load the file into the database, if it fails it is due to an invalid data in the file.
+LOGS:
+	In the logs option the user gets to view all the interactions made by all and also the 
+	date and time when it happened.
+--------------------------------------------------------------------------------------------------

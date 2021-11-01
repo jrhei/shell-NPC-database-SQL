@@ -1,0 +1,196 @@
+---User: root, has viewed the records at: Fri Jul 23 12:54:55 PST 2021---
+
+---User: root, has deleted an NPC with a number of '22' at: Fri Jul 23 12:54:55 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 12:54:55 PST 2021---
+
+---USER: root has loaded file named 'ada' but has failed due to the file not existing at: Fri Jul 23 12:54:55 PST 2021---
+
+---USER: root, has loaded file named 'test.batch' at: Fri Jul 23 12:54:55 PST 2021---
+
+---User: root, has added an NPC with a number of '22' and name of 'Hoodwink' at: Fri Jul 23 12:54:55 PST 2021---
+
+---USER: root has successfully loaded an NPC from file 'test.batch' with an NPC ID of '22' and name of 'Hoodwink' at Fri Jul 23 12:54:55 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 12:54:55 PST 2021---
+
+---User: root, tried to add an NPC and failed due to an error with an input at Race  at: Fri Jul 23 13:10:34 PST 2021---
+
+---User: root, has added an NPC with a number of '255' and name of 'Ellie' at: Fri Jul 23 13:10:34 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:11:59 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:13:29 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:13:52 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:13:52 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:13:52 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:04 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:15:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has edited the Name of NPC ID '0' to 'daw' at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has edited the Age of NPC ID '0' to '26' at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has edited the Name of NPC ID '0' to 'waw' at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:15:19 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:15:19 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has edited the Name of NPC ID '0' to 'awdw' at: Fri Jul 23 13:20:09 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:20:09 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:20:09 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:20:09 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:20:09 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:22:01 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:22:01 PST 2021---
+
+---USER: root, has edited the Name of NPC ID '0' to 'dawd' at: Fri Jul 23 13:22:01 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:22:53 PST 2021---
+
+---User: root, has deleted an NPC with a number of '0' at: Fri Jul 23 13:22:53 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:22:53 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:22:53 PST 2021---
+
+---USER: root, has edited the Age of NPC ID '23' to '53' at: Fri Jul 23 13:22:53 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:22:53 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:24:04 PST 2021---
+
+---USER: root, has edited the Age of NPC ID '22' to '16' at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has deleted an NPC with a number of '22' at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:24:04 PST 2021---
+
+---USER: root, has edited the Age of NPC ID '23' to '57' at: Fri Jul 23 13:24:04 PST 2021---
+
+---USER: root, has edited the Age of NPC ID '23' to '53' at: Fri Jul 23 13:24:04 PST 2021---
+
+---USER: root, has edited the Age of NPC ID '23' to '57' at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:24:04 PST 2021---
+
+---USER: root, has attempted to edit an NPC but had an invalid input at: Fri Jul 23 13:24:04 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:27:43 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has deleted an NPC with a number of '255' at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, attempted to delete an NPC with a number of '126' but failed due to invalid input at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has viewed the records at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has searched for Name 'janno' at:  Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has searched for Name 'janno' at:  Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has sorted the records by name and viewed them at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has loaded file named 'awfsa' but has failed due to the file not existing at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root, has loaded file named 'test.batch' at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has added an NPC with a number of '22' and name of 'Hoodwink' at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has successfully loaded an NPC from file 'test.batch' with an NPC ID of '22' and name of 'Hoodwink' at Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root, has loaded file named 'test.batch' at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---USER: root has failed to load all data from file 'test.batch' due to it having an invalid data entry at: Fri Jul 23 13:28:15 PST 2021---
+
+---User: root, has searched for Race 'Nord' at:  Fri Jul 23 14:15:51 PST 2021---
+
+---User: root, has sorted the records by class and viewed them at:  Fri Jul 23 14:15:51 PST 2021---
+
